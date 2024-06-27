@@ -82,4 +82,3 @@ This project uses the following libraries and resources:
 - [scikit-learn](https://scikit-learn.org/)
 
 Feel free to contribute to this project by creating pull requests or reporting issues.
-```
